@@ -7,11 +7,13 @@
 ---
 
 ### 🛠 **Core Stack & Expertise**
-* 🐘 **Automation :** automation scripts ,Selenuim , Cypress, Testng, .
+* 🐘 **Automation :** automation scripts ,Selenuim , Cucumber, Cypress , Junit ,TestNG.
+* 🛠  **Methodolgy:** TDD , BDD.
 * 🐍 **API Testing:** Postman, REST Assured .
 * 🏗 **Architecture:** Microservices.
 * 🚀 **CDCI:** Github, Jenkins, Kubernetes, Jira.
 * 🛠**Languages:** Java, Javascript, SQL.
+
 
 ---
 
