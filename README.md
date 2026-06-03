@@ -1,7 +1,7 @@
 
 # Hi, I'm Precious 👋 
 
-### ** QA Engineer | Software Test Engineer| Analyst  **
+### ** QA Automation Engineer | Software Test Engineer | QA Analyst  **
 *Engineering Excellence One Test at a Time.*
 
 ---
