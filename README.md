@@ -1,7 +1,7 @@
 
 # Hi, I'm Precious 👋 
 
-### ** QA Engineer | SDET | Analyst  **
+### ** QA Engineer | Software Test Engineer| Analyst  **
 *Engineering Excellence One Test at a Time.*
 
 ---
